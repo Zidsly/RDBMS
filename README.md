@@ -63,8 +63,4 @@ The **AVRS** database is composed of **6 tables** and **12 stored procedures** d
 - **Transaction Tracking**: Record and display transactions such as ride bookings and payments.
 - **Pricing Management**: Manage and display dynamic pricing for vehicle rides.
 
-## Getting Started
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/AVERSOT.git
